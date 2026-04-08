@@ -1,11 +1,11 @@
 {
   "files.exclude": {    
     "README.md":true,
-    ".gitignore":false,
+    ".gitignore":true,
     "APP/README.md":true,
     "APP/node_modules":true,
     "API/node_modules":true,
-    "APP/.gitignore":false,
+    "APP/.gitignore":true,
     "APP/vite.config.ts":true,
     "APP/tsconfig.json":true,
     "APP/tsconfig.app.json":true,   
